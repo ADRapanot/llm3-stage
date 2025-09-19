@@ -1,5 +1,4 @@
 # Complete docs
-### [detailed full doc for everything/完全体文档](`大模型“不完全”修炼手册——从训练、评测到应用搭建.pdf`)
 
 
 ## Install envs
